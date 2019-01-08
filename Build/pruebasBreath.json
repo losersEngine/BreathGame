@@ -4,7 +4,7 @@
 "dataUrl": "pruebasBreath.data.unityweb",
 "wasmCodeUrl": "pruebasBreath.wasm.code.unityweb",
 "wasmFrameworkUrl": "pruebasBreath.wasm.framework.unityweb",
-"TOTAL_MEMORY": 335544320,
+"TOTAL_MEMORY": 318767104,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
